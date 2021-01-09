@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drull1000&label=Profile%20views&color=0e75b6&style=flat" alt="drull1000" /> </p>
 
 - 🚀 I’m currently working on learning new skills and improving myself.
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning React.js
 - 💬 Ask me about design and front-end development.
 - ⚡ Fun fact: I love spoken languages. I'm fluent in Portuguese, English and I'm currently learning French.
 
