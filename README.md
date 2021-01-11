@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drull1000&" alt="drull1000" /></p>
 
-## Top languages and tools:
+## My top languages:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drull1000&show_icons=true&locale=en&layout=compact" alt="drull1000" /></p>
 </br>
