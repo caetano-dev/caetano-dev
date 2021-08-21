@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Drull</h1>
-<h3 align="center">Junior front-end developer based in Brazil</h3>
+<h3 align="center">front-end developer based in Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drull1000&label=Profile%20views&color=0e75b6&style=flat" alt="drull1000" /> </p>
 
 - 🚀 I’m currently working on learning new skills and improving myself.
 - 🌱 I’m currently learning React.js
-- 💬 Ask me about design and front-end development.
-- ⚡ Fun fact: I love spoken languages. I'm fluent in Portuguese, English and I'm currently learning French.
+- 💬 Ask me about JavaScript, css, Linux, and front-end development.
+- ⚡ Fun fact: I like to learn spoken languages. I speak Portuguese, English and French.
 
 ## My stats:
 
