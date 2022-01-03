@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drull1000&label=Profile%20views&color=0e75b6&style=flat" alt="drull1000" /> </p>
 
 - 🚀 I’m currently working on learning new skills and improving myself.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Golang
 - 💬 Ask me about JavaScript, css, Linux, and front-end development.
 - ⚡ Fun fact: I like to learn spoken languages. I speak Portuguese, English and French.
 
