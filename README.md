@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drull1000&label=Profile%20views&color=0e75b6&style=flat" alt="drull1000" /> </p>
 
 ## 🚀 About Me
-I'm a computer science student, web developer, cyberpunk and Linux enthusiast. (I use NixOS btw).
+I'm a computer science student, web developer, cyberpunk and Linux enthusiast.
 
 ![cyberpunkGif](https://giffiles.alphacoders.com/211/211931.gif)
 ## 🛠 Skills
