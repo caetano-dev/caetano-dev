@@ -4,22 +4,10 @@
 
 ## 🚀 About Me
 I'm a computer science student with experience working as a fullstack developer.
-
+I have knowledge in TypeScript, Go, Python, React, Vue, Angular, Java, Swift and C. 
 Check my personal blog on Neocities (please).
 caetano.neocities.org
 
 ![cyberpunkGif](https://giffiles.alphacoders.com/211/211931.gif)
-## 🛠 Skills
-
-I have knowledge in JavaScript, HTML, CSS, React, Vue, Angular, Python, C, Go, Swift and Java. 
-
-[![Pedro's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=caetano-dev&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📈 Stats
-[![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=caetano-dev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Pedro's github stats](https://github-readme-streak-stats.herokuapp.com/?user=caetano-dev&)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
